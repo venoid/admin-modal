@@ -2,7 +2,7 @@
 
 Modal component for your administration provides you good options how to show your modal with any content.
 
-![gif-example](/images/example2.gif)
+![gif-example](https://bitbucket.org/venoid/admin-modal/raw/b409125ba5cbba59865005f299696e3b60226669/images/example2.gif)
 
 ## Props
 | Props         | Type    | Default   |                                      |
