@@ -32,7 +32,6 @@
     "dist/*",
     "src/*",
     "public/*",
-    "images/*",
     "*.json",
     "*.js"
   ],

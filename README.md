@@ -2,7 +2,7 @@
 
 Modal component for your administration provides you good options how to show your modal with any content.
 
-![screenshot-example]()
+![gif-example](/images/example2.gif)
 
 ## Props
 | Props         | Type    | Default   |                                      |
