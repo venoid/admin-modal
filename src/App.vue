@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import VenoidModal from './Modal.vue';
+import VenoidModal from './venoid-modal.vue';
 
 export default {
   name: 'app',
