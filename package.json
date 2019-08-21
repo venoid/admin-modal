@@ -1,6 +1,6 @@
 {
   "name": "@venoid/admin-modal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modal component developed by Venoid team using Buefy UI framework.",
   "author": "Dmitrij Tkačenko <dimot9@gmail.com>",
   "contributors": [
@@ -15,7 +15,6 @@
   "main": "dist/venoid-modal.ssr.js",
   "module": "dist/venoid-modal.esm.js",
   "unpkg": "dist/venoid-modal.min.js",
-
   "files": [
     "dist/*",
     "src/**/*.vue"
@@ -42,17 +41,17 @@
     "@vue/cli-plugin-eslint": "^3.0.1",
     "@vue/cli-service": "^3.0.1",
     "babel-eslint": "^10.0.1",
+    "cross-env": "^5.2.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10",
-    "cross-env": "^5.2.0",
     "minimist": "^1.2.0",
     "rollup": "^1.12.1",
     "rollup-plugin-buble": "^0.19.6",
     "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-replace": "^2.2.0",
     "rollup-plugin-terser": "^4.0.4",
-    "rollup-plugin-vue": "^5.0.0"
+    "rollup-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
     "root": true,
