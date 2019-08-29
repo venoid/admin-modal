@@ -1,3 +1,3 @@
-import VenoidModal from './Modal'
+import VenoidModal from './venoid-modal.vue'
 
 export default VenoidModal
