@@ -1,8 +1,10 @@
 # Venoid Admin Modal Component
 
+![npm](https://img.shields.io/npm/v/@venoid/admin-modal?color=green)
+
 Modal component for your administration provides you good options how to show your modal with any content.
 
-![gif-example](https://bitbucket.org/venoid/admin-modal/raw/b409125ba5cbba59865005f299696e3b60226669/images/example2.gif)
+![gif-example](https://camo.githubusercontent.com/1b1ce12b3ce310e27081d7b268035fb9976bbb52/68747470733a2f2f6269746275636b65742e6f72672f76656e6f69642f61646d696e2d6d6f64616c2f7261772f623430393132356261356362626135393836353030356632393936393665336236303232363636392f696d616765732f6578616d706c65322e676966)
 
 ## Props
 | Props         | Type    | Default   |                                      |
