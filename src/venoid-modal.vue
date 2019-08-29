@@ -62,7 +62,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 .card-footer-item {
   justify-content: flex-end;
 }
