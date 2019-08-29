@@ -1,6 +1,7 @@
 # Venoid Admin Modal Component
 
-![npm](https://img.shields.io/npm/v/@venoid/admin-modal?color=green)
+[![npm](https://img.shields.io/npm/v/@venoid/admin-modal?color=green)](https://www.npmjs.com/package/@venoid/admin-modal)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@venoid/admin-modal)
 
 Modal component for your administration provides you good options how to show your modal with any content.
 
