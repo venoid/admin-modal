@@ -9,9 +9,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org:venoid/admin-modal.git"
+    "url": "git@github.com:venoid/admin-modal.git"
   },
-  "homepage": "https://bitbucket.org/venoid/admin-modal#readme",
+  "homepage": "https://github.com/venoid/admin-modal#readme",
   "main": "dist/venoid-modal.ssr.js",
   "module": "dist/venoid-modal.esm.js",
   "unpkg": "dist/venoid-modal.min.js",
