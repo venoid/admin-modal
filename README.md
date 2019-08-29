@@ -7,12 +7,12 @@ Modal component for your administration provides you good options how to show yo
 ## Props
 | Props         | Type    | Default   |                                      |
 |---------------|---------|-----------|--------------------------------------|
-| actions       | Array   | []        | Array of objects with options. Represent buttons in a footer.    |
+| actions       | Array   | []        | Array of objects with [options](#action-options). Represent buttons in a footer.    |
 | active        | Boolean | false     | Shows or hides modal.                |
 | close-button  | Boolean | true      | Shows cross button at top right of an overlay. |
 | header        | String  | 'Modal name' | Text of a header. |
 
-#### actions options
+#### action options
 ```
 {
   label: 'Say hello' // String,
